@@ -4,7 +4,7 @@ This is my first time making resume using HTML and will keep it updating with ti
 How to use:
 1.Clone the repository.
 2.run and debug/Go live.
-voila!!
+voila!
 
 CONTACT ME:
 Mail: pratishsharma19@gmail.com
